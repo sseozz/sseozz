@@ -54,7 +54,10 @@ always_shipping
 $ echo $LANGS
 go python html
 
-$ 
+$ chmod +x ~/scripts/RemoveWindows.sh
+
+$ ./home/seoz/scripts/RemoveWindows.sh
+Operation complete, Windows partition was successfully nuked.
 ```
 
 </td>
