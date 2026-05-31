@@ -43,7 +43,7 @@ $ whoami
 seoz
 
 $ uname -sr
-Linux 6.9.0-arch1
+Linux 7.0.10-arch1-1
 
 $ uptime -p
 up 14 hours, 32 minutes
@@ -54,8 +54,7 @@ always_shipping
 $ echo $LANGS
 go python html
 
-$ git log --oneline -1
-a3f9c12 fix: ship it
+$ 
 ```
 
 </td>
