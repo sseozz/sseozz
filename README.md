@@ -66,6 +66,6 @@ a3f9c12 fix: ship it
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=go,python,html,linux" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=go,python,html,linux,arch,bash" alt="Skills Icons" />
   </a>
 </p>
