@@ -52,7 +52,7 @@ $ echo $MOOD
 always_shipping
 
 $ echo $LANGS
-go python html
+go python html bash
 
 $ chmod +x ~/scripts/RemoveWindows.sh
 
