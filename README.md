@@ -68,6 +68,6 @@ Operation complete, Windows partition was successfully nuked.
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=go,python,html,bash,vscode,nix,arch,linux" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=go,python,html,bash,vscode,gentoo,nix,arch,linux" alt="Skills Icons" />
   </a>
 </p>
