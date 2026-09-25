@@ -42,8 +42,8 @@ func main() {
 $ whoami
 seoz
 
-$ uname -sr
-Linux 7.0.10-arch1-1
+$ uname -on
+fedora GNU/Linux
 
 $ uptime -p
 up 14 hours, 32 minutes
