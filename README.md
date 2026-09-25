@@ -29,7 +29,7 @@ func main() {
     me := Dev{
         Name: "seoz",
         OS:   "Linux",
-        Mood: "always_shipping",
+        Mood: "never_shipping",
     }
     fmt.Println(me.greet())
 }
